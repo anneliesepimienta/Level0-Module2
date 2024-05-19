@@ -24,3 +24,4 @@ if __name__ == '__main__':
     # TODO: Uncomment the code below and run the program again
     #   Use str() to print num1 and num2
     # messagebox.showinfo(None, "num1 = " + num1 + " num2 = " + num2)
+    messagebox.showinfo(None, "num1 = " + num1 + " num2 = " + num2)

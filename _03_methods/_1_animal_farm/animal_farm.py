@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import simpledialog, Tk
+from tkinter import simpledialog, Tk, messagebox
 from PIL import Image, ImageTk
 from playsound import playsound
 
@@ -13,7 +13,7 @@ def animals():
 
     # TODO 1. Ask the user which animal they want, then see and
     #  hear the animal they chose using one of the methods below.
-
+    animal = simpledialog.askstring(title = "animal", prompt = "what animal would you want? cat, cow, dog, duck, or llama?")
     # TODO 2. Make it so that the user can keep entering new animals.
 
     # TODO 3. If the user enters 'exit', stop the program
