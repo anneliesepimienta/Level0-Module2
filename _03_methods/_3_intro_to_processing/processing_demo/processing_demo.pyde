@@ -34,4 +34,7 @@ def draw():
     # TODO: Add some other shapes with different sizes and colors
     # rect(x, y, width, height)
     # triangle(x1, y1, x2, y2, x3, y3)
-    
+    rect(5, 7, 7, 5)
+    triangle(91, 81, 72, 62, 53, 43)
+    fill("#050505")
+    ellipse(6, 5, 4, 3)
