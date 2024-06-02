@@ -13,7 +13,7 @@ def setup():
     global x
 
     # 1. Set the variable named x to 50.
-
+    x = 50
 def draw():
     background(200, 200, 200)
     global x
