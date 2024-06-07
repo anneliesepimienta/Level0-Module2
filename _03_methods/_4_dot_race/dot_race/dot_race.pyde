@@ -19,7 +19,8 @@ def draw():
     global x
     
     # 2. Draw an ellipse of height and width 50. Make sure to use the x variable
-    # for its X position. Pick a y value that places it half way down the window.
+    # for its X position.
+
     
     # 3. Fill in the ellipse with a nice color. Remember to put it above the code
     # where you draw the ellipse.

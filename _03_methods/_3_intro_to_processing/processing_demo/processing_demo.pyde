@@ -1,6 +1,3 @@
-"""
-Processing Demo
-"""
 
 # Processing has many built in functions to draw colorful
 # shapes very easily. Lets do a quick example:
@@ -8,6 +5,7 @@ def setup():
     # The size(width, height) function creates a window with
     # the specified with and height 
     size(800, 600)
+    background('#FFFFFF')
 
 
 def draw():
