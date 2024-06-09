@@ -1,4 +1,4 @@
-# When you are done, this program will draw an ice cream cone with 
+' # When you are done, this program will draw an ice cream cone with 
 #     scoops of ice cream, sprinkles, and a cherry on top.
 
 
@@ -8,7 +8,7 @@ def setup():
      
     # Call the make_ice_cream_cone() function below to draw the cone for
     # your ice cream
-
+    make_ice_cream_cone()
     # Use the add_scoop() function below to add as many scoops of ice cream
     # as you want. Choose a different flavor for each scoop.
 
