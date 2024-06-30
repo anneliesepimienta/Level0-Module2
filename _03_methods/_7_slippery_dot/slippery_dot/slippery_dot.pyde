@@ -1,5 +1,7 @@
 import math
-# When you are done, this program will draw an ellipse 
+# THIS WAS COMPLETED ON 6-30-2024 / SAVE DID NOT WORK -JED S.  (TEACHER)
+
+# When you are done, this program will draw an ellipse
 # that jumps to new location each time you click on it.
  
 # 1. Create three variables to represent the x, y, and
